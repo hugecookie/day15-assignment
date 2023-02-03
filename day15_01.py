@@ -38,3 +38,21 @@ if __name__ == "__main__":
         find_and_insert_data(data, count)
         dat = dict(pokemons)
         print(dat)
+
+
+# 교재 chap3 예제 문제
+# 1. 선형리스트
+#
+# 2. 1
+#
+# 3. 4->2->3->1
+#
+# 4. katok.append(None)
+#
+# 5. katok.pop()
+#
+# 6. 4->2->1->3
+#
+# 7. 4
+#
+# 8. 1
